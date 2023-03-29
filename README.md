@@ -1,6 +1,6 @@
 # three-cubes
 
-3D geometry and spinning cubes animation created using Three JS library and animation of cube (enlarging the meshes) using Spring. 
+3D geometry and spinning cubes animation created using React and Three JS library plus animation of cube (enlarging the meshes) using Spring. 
 
 ## Live
 
@@ -8,7 +8,7 @@ http://test-121234.gniezno.pl/
 
 ## Tech Stack
 
-Three JS, Spring, Drei, CSS, HTML
+Three JS, React, Spring, Drei, CSS, HTML
 
 
 ## Screenshots
