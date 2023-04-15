@@ -8,7 +8,7 @@ http://test-121234.gniezno.pl/
 
 ## Tech Stack
 
-Three JS, React, Spring, Drei, CSS, HTML
+Three JS, React, Spring, Drei, CSS, HTML.
 
 
 ## Screenshots
